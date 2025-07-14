@@ -5,7 +5,7 @@ This project demonstrates the numerical solution of the 2D Helmholtz equation fo
 
 
 
-###### Overview
+Overview
 ---
 
 The Helmholtz equation describes how physical fields (e.g., electromagnetic waves) propagate in space. Solving it for different geometries is fundamental in waveguide and photonics research.
@@ -78,10 +78,12 @@ m,n are mode indices.
 
 
 
-###### Results & Visualization
+Results & Visualization
 ---
 
    ->Each notebook visualizes the computed eigenmodes and compares FDM results with analytical solutions (for rectangular).
+   
    ->Modes are plotted with clear color maps (typically using jet, where red is 1 and blue is -1).
+   
    ->Field distributions and eigenvalues for each geometry are displayed.
 
